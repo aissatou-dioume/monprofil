@@ -1,0 +1,61 @@
+h1 {
+    font-size : 80px ;
+    color: rbg(200, 200, 200) ;
+    text-align: center;
+    font-family: 'Better Grade', sans-serif;
+}
+
+h2 {
+  font-size: 35px;
+  color: #ADD8E6;
+  border: 2px solid purple;
+  margin:  15px;
+  text-align: center;
+  }
+
+  ol {
+    text-align: center;
+    color: white;
+    font-size: 25px;
+}
+  
+  ul {
+    text-align: center;
+    color: white;
+    font-size: 25px;
+}
+
+  .coord {
+  color : blueviolet;
+        text-align: center;
+        }
+
+.rs {
+  color : orange;
+}
+
+h3 {
+  font-size: 35px;
+  color: purple;
+  border: 2px solid purple;
+  margin:  15px;
+  text-align: center;
+  }
+
+h4 {
+  font-size: 35px;
+  color: #DB7093;
+  border: 2px solid purple;
+  margin:  15px;
+  text-align: center;
+  }
+img {
+  width: 230px;
+  border-radius: 115px;
+  text-align: center;
+  }
+
+.flexbox {
+  display: flex;
+  justify-content: center;
+  }
